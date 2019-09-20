@@ -1,4 +1,5 @@
 # TI 84 Calculator scripts
+### Helpful scripts often used in AP Calculus
 
 ## Scripts
 * [Slope](scripts/SLOPE.8xp): Calculates slope between 2 points
