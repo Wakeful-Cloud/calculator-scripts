@@ -1,8 +1,8 @@
 # TI 84 Calculator scripts
 
 ## Scripts
-* Slope
-* Quadform
+* [Slope](lib/SLOPE.8xp)
+* [Quadform](lib/QUADFORM.8xp)
 
 ## FAQ
 * Q: How do I add scripts?
