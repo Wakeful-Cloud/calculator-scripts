@@ -1,7 +1,6 @@
 # TI 84 Calculator scripts
 
 ## Scripts
-* [Slope](scripts/SLOPE.8xp): Calculates slope between 2 points
 * [Quadform](scripts/QUADFORM.8xp): Calculates roots of a quadratic equation
 
 ## FAQ
