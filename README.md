@@ -3,6 +3,7 @@
 
 ## Scripts
 * [Quadform](scripts/QUADFORM.8xp): Calculates roots of a quadratic equation
+* [Slope](scripts/SLOPE.8xp): Calculates the slope between 2 points
 
 ## FAQ
 * Q: How do I add scripts?
