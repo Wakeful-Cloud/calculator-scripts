@@ -1,5 +1,5 @@
 # TI 84 Calculator scripts
-### Helpful scripts often used in AP Calculus
+### Helpful scripts often used in AP Calculus or AP Physics
 
 ## Scripts
 * [Quadform](scripts/QUADFORM.8xp): Calculates roots of a quadratic equation
