@@ -5,10 +5,10 @@ Common scripts for the TI-84 family of graphing calculators
 Name | Description
 --- | ---
 [Distance](scripts/DISTANCE.8xp) | Calculates the distance between 2 points
-[Precise](scripts/PRECISE.8xp) | Convert a number to its symbolic/precise representation
 [Intersect](scripts/INTRSECT.8xp) | Find the position of the intersection between 2 linear equations
 [Lines](scripts/LINES.8xp) | Linear equation multi-tool (Slope, Y Intercept, Equation Creator, Intersect Finder)
 [Midpoint](scripts/MIDPOINT.8xp) | Calculate the midpoint between 2 points
+[Precise](scripts/PRECISE.8xp) | Convert a number to its symbolic/precise representation
 [Pythagorean Leg](scripts/PYTHLEG.8xp) | Given one leg (A) and the hypotenuse (C), solve the other leg (B)
 [Quadform](scripts/QUADFORM.8xp) | Calculates roots of a quadratic equation
 [Ram](scripts/RAM.8xp) | Draw rectangles and calculate area under curve via rectangle aproximation method
