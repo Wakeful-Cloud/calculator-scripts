@@ -1,5 +1,5 @@
 # TI 84 Calculator scripts
-### Helpful scripts often used in AP Calculus and AP Physics.
+Common scripts for the TI-84 family of graphing calculators
 
 ## Scripts
 Name | Description
@@ -14,10 +14,16 @@ Name | Description
 [Riemann](scripts/RIEMANN.8xp) | Calculate the Riemann sum of a function (See script for license)
 [Slope](scripts/SLOPE.8xp) | Calculates the slope between 2 points
 
-## FAQ
-* Q: How do I use these?
-* A: Download TI-Connect and connect your calculator to your computer or reprogram the scripts by hand.
-* Q: How do I add scripts?
-* A: Make a pull request to the [development](../../tree/development) branch
-* Q: How can I create/edit files?
-* A: On a calculator, with TI Connect, or with an IDE (https://github.com/ItsMajestiX/VSCode-Ti may be promising)
+## Documentation
+
+### End-Users
+1. Install [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw)
+2. Click [this link](https://github.com/Wakeful-Cloud/calculator-scripts/archive/refs/heads/main.zip) to download the scripts
+3. Extract the ZIP
+4. Follow [these](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/EG_TIC_84CE_SW/Content/EG_84_TIConnect/M_UseProgEditor/DT_Send_Program_to_Calc.HTML) instructions to transfer the scripts
+
+### Development
+1. Install [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw)
+2. Clone this repository
+3. Use TI Connect or [VSCode-Ti](https://github.com/ItsMajestiX/VSCode-Ti) to create new scripts
+4. Follow end-user instructions to transfer the scripts to your calculator
